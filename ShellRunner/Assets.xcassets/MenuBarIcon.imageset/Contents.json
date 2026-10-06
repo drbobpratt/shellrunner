@@ -1,0 +1,21 @@
+{
+  "images": [
+    {
+      "filename": "menubar.png",
+      "idiom": "universal",
+      "scale": "1x"
+    },
+    {
+      "filename": "menubar@2x.png",
+      "idiom": "universal",
+      "scale": "2x"
+    }
+  ],
+  "properties": {
+    "template-rendering-intent": "original"
+  },
+  "info": {
+    "author": "xcode",
+    "version": 1
+  }
+}
